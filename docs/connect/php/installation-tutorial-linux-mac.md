@@ -25,7 +25,7 @@ While these instructions contain commands to install both SQLSRV and PDO_SQLSRV 
 
 ## Installing on Ubuntu
 
-Ubuntu versions 18.04, 20.04, 21.04 and 21.10 are supported.
+Ubuntu versions 18.04, 20.04 and 21.10 are supported.
 
 > [!NOTE]
 > To install PHP 7.4 or 8.0, replace 8.1 with 7.4 or 8.0 in the following commands.
